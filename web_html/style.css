@@ -1,0 +1,43 @@
+body {
+    font-family: Arial,  sans-serif; /* Rodzina czcionek */
+    font-size: 20px; /* Rozmiar głównej czcionki w <p></p> tag  */
+    background-color: #ffffff; /* Kolor tła strony internetowej */
+    color: #000000; /* Kolor tła strony internetowej*/ 
+}
+h1 {
+    color: #00fff7; /* Kolor nagłówka */
+    font-size: 55px; /* Rozmiar czcionki nagłówka */
+    font-family: Georgia, serif; /* Rodzina czcionek używana w nagłówku */
+    text-decoration: underline #000000;
+    
+}
+
+h2 {
+    font-size: 40px;
+    color: #26ff00;
+}
+
+h3 {
+    font-size: 30px;
+    color: #001eff;
+}
+
+h4 {
+    color: #d81a63;
+}
+
+ul {
+    list-style: square;
+}
+
+a {color: #d01ba2;}
+
+a:hover {color: #ff0000;}
+
+img {
+    border: 20px solid #ff00ff ;
+}
+
+img:hover {
+    border: 21px solid #ff0000 ;
+}
